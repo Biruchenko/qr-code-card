@@ -13,7 +13,7 @@ A small, responsive card that displays a QR code image with a title, description
 
 ### Live site
 
-- Live: (add your live URL or GitHub Pages link)
+- https://biruchenko.github.io/qr-code-card/
 
 ## Built with
 
