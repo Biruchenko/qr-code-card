@@ -55,8 +55,11 @@ body {
 	align-items: center;
 	padding-inline: 15px;
 }
-.card {
+main {
+	/* flex: 1 1 auto; */
 	margin: auto;
+}
+.card {
 	max-width: 320px;
 }
 .card__body {
